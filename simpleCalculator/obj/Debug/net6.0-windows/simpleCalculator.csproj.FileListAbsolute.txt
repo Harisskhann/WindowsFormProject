@@ -1,0 +1,17 @@
+C:\Users\hkhan\Desktop\presentations\simpleCalculator\obj\Debug\net6.0-windows\simpleCalculator.csproj.AssemblyReference.cache
+C:\Users\hkhan\Desktop\presentations\simpleCalculator\obj\Debug\net6.0-windows\simpleCalculator.Calculator.resources
+C:\Users\hkhan\Desktop\presentations\simpleCalculator\obj\Debug\net6.0-windows\simpleCalculator.csproj.GenerateResource.cache
+C:\Users\hkhan\Desktop\presentations\simpleCalculator\obj\Debug\net6.0-windows\simpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hkhan\Desktop\presentations\simpleCalculator\obj\Debug\net6.0-windows\simpleCalculator.AssemblyInfoInputs.cache
+C:\Users\hkhan\Desktop\presentations\simpleCalculator\obj\Debug\net6.0-windows\simpleCalculator.AssemblyInfo.cs
+C:\Users\hkhan\Desktop\presentations\simpleCalculator\obj\Debug\net6.0-windows\simpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\hkhan\Desktop\presentations\simpleCalculator\bin\Debug\net6.0-windows\simpleCalculator.exe
+C:\Users\hkhan\Desktop\presentations\simpleCalculator\bin\Debug\net6.0-windows\simpleCalculator.deps.json
+C:\Users\hkhan\Desktop\presentations\simpleCalculator\bin\Debug\net6.0-windows\simpleCalculator.runtimeconfig.json
+C:\Users\hkhan\Desktop\presentations\simpleCalculator\bin\Debug\net6.0-windows\simpleCalculator.dll
+C:\Users\hkhan\Desktop\presentations\simpleCalculator\bin\Debug\net6.0-windows\simpleCalculator.pdb
+C:\Users\hkhan\Desktop\presentations\simpleCalculator\obj\Debug\net6.0-windows\simpleCalculator.dll
+C:\Users\hkhan\Desktop\presentations\simpleCalculator\obj\Debug\net6.0-windows\refint\simpleCalculator.dll
+C:\Users\hkhan\Desktop\presentations\simpleCalculator\obj\Debug\net6.0-windows\simpleCalculator.pdb
+C:\Users\hkhan\Desktop\presentations\simpleCalculator\obj\Debug\net6.0-windows\simpleCalculator.genruntimeconfig.cache
+C:\Users\hkhan\Desktop\presentations\simpleCalculator\obj\Debug\net6.0-windows\ref\simpleCalculator.dll

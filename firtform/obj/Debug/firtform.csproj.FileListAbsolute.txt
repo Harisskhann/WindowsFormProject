@@ -1,0 +1,11 @@
+C:\Users\hkhan\Desktop\presentations\firtform\bin\Debug\firtform.exe.config
+C:\Users\hkhan\Desktop\presentations\firtform\bin\Debug\firtform.exe
+C:\Users\hkhan\Desktop\presentations\firtform\bin\Debug\firtform.pdb
+C:\Users\hkhan\Desktop\presentations\firtform\obj\Debug\firtform.csproj.AssemblyReference.cache
+C:\Users\hkhan\Desktop\presentations\firtform\obj\Debug\firtform.csproj.SuggestedBindingRedirects.cache
+C:\Users\hkhan\Desktop\presentations\firtform\obj\Debug\firtform.Properties.Resources.resources
+C:\Users\hkhan\Desktop\presentations\firtform\obj\Debug\firtform.Subform.resources
+C:\Users\hkhan\Desktop\presentations\firtform\obj\Debug\firtform.csproj.GenerateResource.cache
+C:\Users\hkhan\Desktop\presentations\firtform\obj\Debug\firtform.csproj.CoreCompileInputs.cache
+C:\Users\hkhan\Desktop\presentations\firtform\obj\Debug\firtform.exe
+C:\Users\hkhan\Desktop\presentations\firtform\obj\Debug\firtform.pdb
